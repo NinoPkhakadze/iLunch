@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:layout_margin="2dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:background="@drawable/ic_billion"
+        android:gravity="center"
+        android:text="@string/downloads_number"
+        android:textSize="@dimen/downloads_number_font_size" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/downloads_margin_top"
+        android:text="@string/downloads"
+        android:textSize="@dimen/downloads_label_size"
+        android:textStyle="bold" />
+</LinearLayout>

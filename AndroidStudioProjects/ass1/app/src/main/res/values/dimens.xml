@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="downloads_number_font_size">28sp</dimen>
+    <dimen name="downloads_label_size">15sp</dimen>
+    <dimen name="downloads_margin_top">10dp</dimen>
+    <dimen name="ad_padding">25dp</dimen>
+</resources>
